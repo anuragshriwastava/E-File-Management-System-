@@ -1,5 +1,3 @@
 yyyyyyyyyyyyyyyyyyyyyyyyyyanurag
  
-dd
-tt
-gbgftrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
+ 
