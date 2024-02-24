@@ -1,1 +1,1 @@
---- deployment: tasks: - export DEPLOYPATH=/home/insoftsolution/public_html/ - /bin/rsync * $DEPLOYPATH
+deploy: tasks: - export DEPLOYPATH=/home/insoftsolution/public_html/ - /bin/cp -r * $DEPLOYPATH
