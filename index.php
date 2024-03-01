@@ -11,7 +11,7 @@
 <body>
     <!-- Your page content goes here -->
     <h1>Hello, World!</h1>
-    <p>This Minal.</p>
+    <p>This Minal. </p>
 
     <!-- Scripts and additional content can be placed before the closing body tag -->
     <!-- <script src="your-script.js"></script> -->
