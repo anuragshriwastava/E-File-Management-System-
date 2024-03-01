@@ -1,1 +1,7 @@
-deployment: tasks: - export DEPLOYPATH=/home/insoftsolution/public_html/ - rsync -avz --progress . $DEPLOYPATH
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/insoftsolution/public_html/
+    - rsync -avz --progress . $DEPLOYPATH
+
+post_push:
+  - git push cpanel
